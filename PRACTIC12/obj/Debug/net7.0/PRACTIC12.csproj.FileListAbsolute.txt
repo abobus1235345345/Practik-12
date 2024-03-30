@@ -1,0 +1,14 @@
+D:\is21\PRACTIC12\bin\Debug\net7.0\PRACTIC12.exe
+D:\is21\PRACTIC12\bin\Debug\net7.0\PRACTIC12.deps.json
+D:\is21\PRACTIC12\bin\Debug\net7.0\PRACTIC12.runtimeconfig.json
+D:\is21\PRACTIC12\bin\Debug\net7.0\PRACTIC12.dll
+D:\is21\PRACTIC12\bin\Debug\net7.0\PRACTIC12.pdb
+D:\is21\PRACTIC12\obj\Debug\net7.0\PRACTIC12.GeneratedMSBuildEditorConfig.editorconfig
+D:\is21\PRACTIC12\obj\Debug\net7.0\PRACTIC12.AssemblyInfoInputs.cache
+D:\is21\PRACTIC12\obj\Debug\net7.0\PRACTIC12.AssemblyInfo.cs
+D:\is21\PRACTIC12\obj\Debug\net7.0\PRACTIC12.csproj.CoreCompileInputs.cache
+D:\is21\PRACTIC12\obj\Debug\net7.0\PRACTIC12.dll
+D:\is21\PRACTIC12\obj\Debug\net7.0\refint\PRACTIC12.dll
+D:\is21\PRACTIC12\obj\Debug\net7.0\PRACTIC12.pdb
+D:\is21\PRACTIC12\obj\Debug\net7.0\PRACTIC12.genruntimeconfig.cache
+D:\is21\PRACTIC12\obj\Debug\net7.0\ref\PRACTIC12.dll
